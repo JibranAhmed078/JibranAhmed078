@@ -91,8 +91,7 @@ I use GitHub to document my learning journey, build projects, and continuously i
 
 I'm always interested in learning, collaborating, and working on interesting technology projects.
 
-LinkedIn: Add your LinkedIn URL here
-GitHub: You're already here! 😄
+LinkedIn: https://www.linkedin.com/in/jibranahmed078 
 
 ---
 
